@@ -1,2 +1,2 @@
-# Oscar-Treskow-Ev2
+# OscarTreskowEV2
 Evaluacion Nro 2 Front-End
